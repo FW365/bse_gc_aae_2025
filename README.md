@@ -55,11 +55,13 @@ applied in non-experimental settings) that works without distributional assumpti
 - **Cunningham, Scott (2018), Causal Inference: The Mixtape, Chapter “Randomization In-
 ference”**, https://mixtape.scunning.com/04-potential_outcomes#randomization-inference.
 
+- Angrist, Joshua D. and Alan B. Krueger, “Chapter 23 - Empirical Strategies in Labor Economics,” in Orley C. Ashenfelter and David Card, eds., Orley C. Ashenfelter and David Card, eds., Vol. 3 of Handbook of Labor Economics, Elsevier, 1999, pp. 1277–13. URL for this course only: https://www.dropbox.com/scl/fi/ow3uutws2mh1za25q2xra/AngristKrueger1999Handbook.pdf?rlkey=tndqyqa4kqb9qmp6tvelvysnh&dl=0
+
 - Murphy, Richard, Gill Wyness, and Felix Weinhardt (2021), Who teaches the teachers? A RCT of peer-to-peer observation and feedback in 181 schools. The Economics of Education Review 2021, vol. 82. https://doi.org/10.1016/j.econedurev.2021.102091
 
 
 
-### 2 Panel Data/Fixed Effects (April 25, FW)
+### 2 Panel Data/Fixed Effects (May 2, FW)
 
 - Fixed effects and first differences: identification and interpretation
 - Application to panel settings and beyond
@@ -78,7 +80,7 @@ ference”**, https://mixtape.scunning.com/04-potential_outcomes#randomization-i
 
 
 
-### 3 Difference-in-difference (May 2, FW)
+### 3 Difference-in-difference (May 9, FW)
 
 - Canonical DID model
 - Event study framework, two-way fixed-effects
@@ -104,7 +106,7 @@ ference”**, https://mixtape.scunning.com/04-potential_outcomes#randomization-i
 
 
 
-### 4 IV (May 9 and May 16, FW)
+### 4 IV (May 16 and May 23, FW)
 
 - Introduction: The Wald estimator, IV with homogeneous treatment effects, assessment of instruments
 - LATE: can we learn anything when treatment effects are heterogeneous?
@@ -129,7 +131,7 @@ ference”**, https://mixtape.scunning.com/04-potential_outcomes#randomization-i
 
 
 
-### 5 Regression discontinuity (May 23, FW)
+### 5 Regression discontinuity (May 30, FW)
 
 - Introduction: Sharp and fuzzy RD
 - Threats to identification and RD diagnostics (bunching, covariate distribution)
